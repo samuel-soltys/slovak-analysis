@@ -122,3 +122,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom
+geos-3.9.4
+
+.DS_Store
